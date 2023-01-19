@@ -1,4 +1,3 @@
-//your code here
 function major(arr)
 {
   //your code here
