@@ -1,3 +1,4 @@
+
 const nums = {};
 const result = majorityElement(nums);
 console.log(result); // Output: 2
